@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="voting_1st_text">State</string>
+    <string name="voting_2nd_text">District</string>
+    <string name="voting_3rd_text">Party</string>
+    <string name="State_Prompt">Choose state</string>
+    <string-array name="States_list">
+        <item>Tamil Nadu</item>
+        <item>Karnataka</item>
+        <item>Odisha</item>
+    </string-array>
+    <string-array name="district_2">
+        <item>Trivendrum</item>
+        <item>Friend</item>
+    </string-array>
+    <string-array name="district_1">
+        <item>Vellore</item>
+        <item>Chennai</item>
+    </string-array>
+    <string-array name="district_3">
+        <item>Bhubaneshwar</item>
+        <item>Cuttack</item>
+    </string-array>
+    <string-array name="party_state_1">
+        <item>AIADMK</item>
+        <item>DMK</item>
+    </string-array>
+    <string-array name="party_state_2">
+        <item>BJP</item>
+        <item>AIADMK</item>
+    </string-array>
+    <string-array name="party_state_3">
+        <item>BJP</item>
+        <item>INC</item>
+    </string-array>
+</resources>
